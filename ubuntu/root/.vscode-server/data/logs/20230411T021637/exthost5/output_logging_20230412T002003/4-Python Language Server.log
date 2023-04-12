@@ -1,0 +1,16 @@
+[Info  - 12:20:05 AM] (185326) Pylance language server 2023.4.10 (pyright d7616109) starting
+[Info  - 12:20:05 AM] (185326) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 12:20:05 AM] (185326) Starting service instance "root"
+[Info  - 12:20:05 AM] (185326) Auto-indent enabled
+[Info  - 12:20:05 AM] (185326) Setting pythonPath for service "root": "/bin/python3"
+[Warn  - 12:20:05 AM] (185326) stubPath /root/typings is not a valid directory.
+[Info  - 12:20:05 AM] (185326) Assuming Python version 3.10
+[Info  - 12:20:05 AM] (185326) Auto-excluding /root/venv
+[Info  - 12:20:05 AM] (185326) Found 15 source files
+[Info  - 12:20:06 AM] (185326) Background analysis(1) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 12:20:06 AM] (185326) Background analysis(1) started
+[Info  - 12:20:06 AM] (185326) Indexer background runner(2) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist (index)
+[Info  - 12:20:06 AM] (185326) Indexing(2) started
+[Info  - 12:20:06 AM] (185326) scanned(2) 17 files over 1 exec env
+[Info  - 12:20:06 AM] (185326) indexed(2) 7 files over 1 exec env
+[Info  - 12:20:06 AM] (185326) Indexing finished(2).

@@ -1,0 +1,18 @@
+[Info  - 4:03:54 AM] (64450) Pylance language server 2023.4.10 (pyright d7616109) starting
+[Info  - 4:03:54 AM] (64450) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 4:03:54 AM] (64450) Starting service instance "root"
+[Info  - 4:03:54 AM] (64450) Setting pythonPath for service "root": "/root/venv/bin/python"
+[Warn  - 4:03:54 AM] (64450) stubPath /root/typings is not a valid directory.
+[Info  - 4:03:54 AM] (64450) Assuming Python version 3.10
+[Info  - 4:03:54 AM] (64450) Auto-excluding /root/venv
+[Info  - 4:03:54 AM] (64450) Found 6 source files
+[Info  - 4:03:54 AM] (64450) Background analysis(1) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 4:03:54 AM] (64450) Background analysis(1) started
+[Info  - 4:03:55 AM] (64450) Indexer background runner(2) root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10/dist (index)
+[Info  - 4:03:55 AM] (64450) Indexing(2) started
+[Info  - 4:03:55 AM] (64450) scanned(2) 48 files over 1 exec env
+[Info  - 4:03:55 AM] (64450) indexed(2) 35 files over 1 exec env
+[Info  - 4:03:55 AM] (64450) Indexing finished(2).
+[Info  - 4:06:10 AM] (64450) Found 13 source files
+[Info  - 4:07:03 AM] (64450) Found 14 source files
+[Info  - 4:14:01 AM] (64450) Found 15 source files

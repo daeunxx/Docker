@@ -1,0 +1,83 @@
+2023-04-11 02:16:37.584 [info] 
+
+
+
+
+2023-04-11 02:16:37.584 [info] Extension host agent started.
+2023-04-11 02:16:37.590 [debug] No uninstalled extensions found.
+2023-04-11 02:16:37.596 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-04-11 02:16:37.600 [debug] ComputeTargetPlatform: linux-x64
+2023-04-11 02:16:37.611 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-04-11 02:16:37.761 [info] [127.0.0.1][61a96880][ManagementConnection] New connection established.
+2023-04-11 02:16:37.804 [info] Log level changed to info
+2023-04-11 02:16:38.106 [info] [127.0.0.1][9858474c][ExtensionHostConnection] New connection established.
+2023-04-11 02:16:38.110 [info] [127.0.0.1][9858474c][ExtensionHostConnection] <233> Launched Extension Host Process.
+2023-04-11 02:16:58.910 [info] [127.0.0.1][3828d589][ManagementConnection] New connection established.
+2023-04-11 02:16:59.319 [info] [127.0.0.1][371d3790][ExtensionHostConnection] New connection established.
+2023-04-11 02:16:59.345 [info] [127.0.0.1][371d3790][ExtensionHostConnection] <766> Launched Extension Host Process.
+2023-04-11 02:17:02.554 [info] [127.0.0.1][3828d589][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-11 02:17:02.586 [info] [127.0.0.1][371d3790][ExtensionHostConnection] <766> Extension Host Process exited with code: 0, signal: null.
+2023-04-11 02:17:15.603 [info] [127.0.0.1][a04e61fa][ManagementConnection] New connection established.
+2023-04-11 02:17:16.015 [info] [127.0.0.1][615e245b][ExtensionHostConnection] New connection established.
+2023-04-11 02:17:16.019 [info] [127.0.0.1][615e245b][ExtensionHostConnection] <1404> Launched Extension Host Process.
+2023-04-11 02:18:09.169 [info] [127.0.0.1][61a96880][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-11 02:18:09.186 [info] [127.0.0.1][9858474c][ExtensionHostConnection] <233> Extension Host Process exited with code: 0, signal: null.
+2023-04-11 04:03:40.379 [info] Getting Manifest... ms-python.python
+2023-04-11 04:03:40.571 [info] Installing extension: ms-python.python
+2023-04-11 04:03:41.242 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-11 04:03:41.652 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-04-11 04:03:41.812 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-11 04:03:41.978 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-04-11 04:03:42.135 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-04-11 04:03:42.309 [info] Getting Manifest... ms-python.vscode-pylance
+2023-04-11 04:03:42.569 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-04-11 04:03:42.569 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-04-11 04:03:42.569 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-04-11 04:03:42.569 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-04-11 04:03:42.569 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-04-11 04:03:42.570 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-04-11 04:03:45.092 [info] Extension signature is verified: ms-toolsai.jupyter-keymap
+2023-04-11 04:03:45.127 [info] Extracted extension to /root/.vscode-server/extensions/.c101639e-95ac-444f-9794-506fe1c12967: ms-toolsai.jupyter-keymap
+2023-04-11 04:03:45.135 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-04-11 04:03:45.136 [info] Extension signature is verified: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-11 04:03:45.138 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-04-11 04:03:45.162 [info] Extension signature is verified: ms-toolsai.vscode-jupyter-slideshow
+2023-04-11 04:03:45.176 [info] Extracted extension to /root/.vscode-server/extensions/.b01d63ed-5ca0-4694-9763-65ab4c750aa1: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-11 04:03:45.180 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-04-11 04:03:45.182 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-04-11 04:03:45.191 [info] Extracted extension to /root/.vscode-server/extensions/.035f5391-734c-447e-a083-c2e9eb042f3a: ms-toolsai.vscode-jupyter-slideshow
+2023-04-11 04:03:45.194 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-04-11 04:03:45.195 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-04-11 04:03:45.212 [info] Extension signature is verified: ms-toolsai.jupyter-renderers
+2023-04-11 04:03:45.439 [info] Extension signature is verified: ms-python.python
+2023-04-11 04:03:45.519 [info] Extracted extension to /root/.vscode-server/extensions/.b9523574-1085-4dda-9bbc-0642994eccb5: ms-toolsai.jupyter-renderers
+2023-04-11 04:03:45.527 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-04-11 04:03:45.528 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-04-11 04:03:45.706 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-04-11 04:03:46.418 [info] Extracted extension to /root/.vscode-server/extensions/.f7762d3d-f161-413c-93a7-01230f38e785: ms-toolsai.jupyter
+2023-04-11 04:03:46.427 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223
+2023-04-11 04:03:46.435 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-04-11 04:03:47.404 [info] Extracted extension to /root/.vscode-server/extensions/.9f694f07-20d6-49be-98d2-82acf9ff2872: ms-python.python
+2023-04-11 04:03:47.416 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2023.6.0
+2023-04-11 04:03:47.420 [info] Extracting extension completed. ms-python.python
+2023-04-11 04:03:49.651 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-04-11 04:03:52.306 [info] Extracted extension to /root/.vscode-server/extensions/.9a4d6d1b-10fe-4c3b-990c-40740c68b879: ms-python.vscode-pylance
+2023-04-11 04:03:52.328 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.4.10
+2023-04-11 04:03:52.337 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-python.python
+2023-04-11 04:03:52.351 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-04-11 04:22:04.797 [info] [127.0.0.1][a04e61fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-11 04:22:04.852 [info] [127.0.0.1][615e245b][ExtensionHostConnection] <1404> Extension Host Process exited with code: 0, signal: null.
+2023-04-11 05:01:57.716 [info] [127.0.0.1][d8d216b5][ManagementConnection] New connection established.
+2023-04-11 05:01:58.025 [info] [127.0.0.1][78c67bcc][ExtensionHostConnection] New connection established.
+2023-04-11 05:01:58.030 [info] [127.0.0.1][78c67bcc][ExtensionHostConnection] <75560> Launched Extension Host Process.
+2023-04-11 08:31:56.681 [info] [127.0.0.1][d8d216b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-11 08:31:56.740 [info] [127.0.0.1][78c67bcc][ExtensionHostConnection] <75560> Extension Host Process exited with code: 0, signal: null.
+2023-04-12 00:20:02.727 [info] [127.0.0.1][f3ef2019][ManagementConnection] New connection established.
+2023-04-12 00:20:02.917 [info] [127.0.0.1][682c260d][ExtensionHostConnection] New connection established.
+2023-04-12 00:20:02.922 [info] [127.0.0.1][682c260d][ExtensionHostConnection] <185284> Launched Extension Host Process.
